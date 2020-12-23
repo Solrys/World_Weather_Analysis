@@ -1,3 +1,11 @@
+# Adding config.py file.
+config.py
+
+# Adding additional files
+API_practice.ipynb
+random_numbers.ipynb
+WeatherPy.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -25,6 +33,8 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+
 MANIFEST
 # .DS_Store
 # PyInstaller
