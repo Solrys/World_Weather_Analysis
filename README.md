@@ -47,3 +47,7 @@ Create a heatmap for the new DataFrame.
 Find a hotel from the cities' coordinates using Google's Maps and Places API, and Search Nearby feature.
 Store the name of the first hotel in the DataFrame.
 Add pop-up markers to the heatmap that display information about the city, current maximum temperature, and a hotel in the city.
+
+### Create Vacation Cities
+
+### Create a Travel Itinerary Between 4 Cities
